@@ -8,7 +8,16 @@ Sai Shettar ([https://github.com/saishettar](https://github.com/saishettar))
 
 ## Review of the Current Application
 
-See instructions. Delete this line and replace with your team's findings from using the live app at https://theslidemachine.com — at least 10 specific observations, each labeled as a strength, a weakness, or a gap, and drawn from more than one team member's use of the app.
+1. **Weakness** — The AI often fails to detect when the speaker switches subjects mid-sentence. Example: "I like cats, some people prefer dogs because they're a 'man's best friend'" gets written as "Cats are a 'man's best friend'."
+2. **Gap** — No undo (Ctrl+Z) after the AI refines a slide; there's no way to recover the original wording if the change is worse.
+3. **Weakness** — Editing Seed Notes in settings kicks focus out of the text box after about a second of not typing, interrupting the flow of writing notes.
+4. **Weakness** — Content sometimes bleeds from one slide into the next, producing a redundant bullet point on the current slide.
+5. **Weakness** — The exit-ticket quiz doesn't always translate well from the slide material; some answers don't fit their question, others are too obvious to test anything.
+6. **Strength** — Import/export supports multiple file types, including importing slide themes that aren't built into the app by default.
+7. **Strength** — The translation feature is fast, easy to find (not buried in settings), and can translate the whole interface, not just the slide content.
+8. **Strength** — AI customization is in-depth: users can tune how much the system infers versus sticks to the transcript, how much content lands on one slide, and how layouts adapt to the current topic.
+9. **Gap** — Users cannot add their own images; only the AI selects and places images.
+10. **Gap** — No direct way to share a single slide via a link.
 
 ## Prior Art & Originality
 
