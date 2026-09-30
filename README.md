@@ -120,6 +120,17 @@ As an instructor, I want to upload an image from my own device into the whiteboa
 
 <img width="798" height="1179" alt="Instructor (Image Upload) drawio" src="https://github.com/user-attachments/assets/a004c1ae-ba3b-441d-9de6-df965196d267" />
 
+As an instructor, I want to type my own text box onto a slide in the whiteboard tab, so I can add a label, caption, or note the system didn’t generate.
+
+<img width="582" height="1004" alt="Instructor (Text Inset) drawio" src="https://github.com/user-attachments/assets/a1fe8532-b29a-4996-bf91-45a695b19059" />
+
+As an employee, I want to upload a screenshot or diagram from my own work into the whiteboard tab, so I can show something the live-generated slide couldn’t capture, like an architecture diagram or a code snippet.
+
+<img width="392" height="1122" alt="Employee (Image Upload) drawio" src="https://github.com/user-attachments/assets/c7bbbf28-b4a4-4527-b59d-3c6eabadbab0" />
+
+As an employee, I want to mark an uploaded image as company confidential, so it’s excluded if the deck is ever shared outside my organization.
+
+<img width="899" height="1046" alt="Employee (Confidentiality Marking) drawio" src="https://github.com/user-attachments/assets/86587ac8-7530-47be-a05a-92559271a7f4" />
 
 ## Wireframes
 
