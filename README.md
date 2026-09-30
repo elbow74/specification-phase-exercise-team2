@@ -112,46 +112,46 @@ Our proposal adds manual content controls to The Slide Machine’s whiteboard ta
 
 ## User Requirements
 
-Student:\
-1. "As a student, I want my professors' anecdotes to appear on lecture notes so that I can have an easier time studying."\
-2. "As a student, I want to be able to tell which parts of my lecture notes came from my professor's main lecture and which came from an anecdote so that I know what information is most important."\
-3. "As a student, I want to see corrections my professor made during a lecture reflected in the lecture notes so that I do not study incorrect information."\
-4. "As a student, I want to receive a notification when my professor corrects something from the lecture so that I know to pay attention to the updated information."\
-5. "As a student, I want to review the anecdotes and examples from a lecture separately from the main lecture notes so that I can use them as additional study material."\
-6. "As a student, I want to search my lecture notes for specific words or topics so that I can quickly find the information I need when studying."\
-7. "As a student, I want to mark important parts of my lecture notes so that I can easily return to them when preparing for an exam."\
-8. "As a student, I want to receive practice questions based on both the main lecture and my professor's anecdotes so that I can test whether I understand the material."\
-9. "As a student, I want to see which lecture or section a practice question came from so that I can review that material when I get an answer wrong."\
-10. "As a student, I want to report an incorrect or confusing lecture note so that the information can be corrected before I use it to study."\
+Student:
+1. "As a student, I want my professors' anecdotes to appear on lecture notes so that I can have an easier time studying."
+2. "As a student, I want to be able to tell which parts of my lecture notes came from my professor's main lecture and which came from an anecdote so that I know what information is most important."
+3. "As a student, I want to see corrections my professor made during a lecture reflected in the lecture notes so that I do not study incorrect information."
+4. "As a student, I want to receive a notification when my professor corrects something from the lecture so that I know to pay attention to the updated information."
+5. "As a student, I want to review the anecdotes and examples from a lecture separately from the main lecture notes so that I can use them as additional study material."
+6. "As a student, I want to search my lecture notes for specific words or topics so that I can quickly find the information I need when studying."
+7. "As a student, I want to mark important parts of my lecture notes so that I can easily return to them when preparing for an exam."
+8. "As a student, I want to receive practice questions based on both the main lecture and my professor's anecdotes so that I can test whether I understand the material."
+9. "As a student, I want to see which lecture or section a practice question came from so that I can review that material when I get an answer wrong."
+10. "As a student, I want to report an incorrect or confusing lecture note so that the information can be corrected before I use it to study."
 
 
 
-Instructor:\
-1. "As an instructor, I want a spoken correction like “actually, scratch that” to replace the wrong text on the current slide instead of adding more text below it, so I don’t end up with a slide that contradicts itself."\
-2. "As an instructor, I want to mark something I’m saying as a note to myself, not lecture content, so it never becomes a slide bullet or a quiz question."\
-3. "As an instructor, I want to see which parts of a generated slide came from a correction versus my original wording so I can tell whether the system caught my correction the way I meant it."\
-4. "As an instructor, I want to undo an automatic correction the system made so I can restore the original wording if it misunderstood me."\
-5. "As an instructor, I want to review, after the lecture, every moment the system treated as an aside rather than content so I can catch anything it filtered out that should have been on a slide."\
-6. "As an instructor, I want to be warned in the moment when the system isn’t confident whether I’m correcting a slide or adding new content so I can clarify without losing my train of thought."\
-7. "As an instructor, I want to turn off automatic correction detection for a lecture, so slides only ever get appended to when I don’t trust the feature to interpret me correctly."\
-8. "As an instructor, I want to see and remove any quiz question generated from an aside or a comment I made to the tool rather than the class, before I publish the quiz to students."\
-9. "As an instructor, I want the system to keep capturing my lecture in plain append-only mode if correction detection fails or times out, so a lecture in progress never has to stop."\
-10. "As an instructor, I want to see a short list of the corrections I made during a lecture after it ends, so I can decide whether any of them need a more careful manual edit."\
-11. Instructor Image Upload UML: "As an instructor, I want to upload an image from my own device into the whiteboard tab, so I can put a diagram or photo I already have directly onto a slide."\
-12. Instructor Text Insert UML: "As an instructor, I want to type my own text box onto a slide in the whiteboard tab, so I can add a label, caption, or note the system didn’t generate."\
+Instructor:
+1. "As an instructor, I want a spoken correction like “actually, scratch that” to replace the wrong text on the current slide instead of adding more text below it, so I don’t end up with a slide that contradicts itself."
+2. "As an instructor, I want to mark something I’m saying as a note to myself, not lecture content, so it never becomes a slide bullet or a quiz question."
+3. "As an instructor, I want to see which parts of a generated slide came from a correction versus my original wording so I can tell whether the system caught my correction the way I meant it."
+4. "As an instructor, I want to undo an automatic correction the system made so I can restore the original wording if it misunderstood me."
+5. "As an instructor, I want to review, after the lecture, every moment the system treated as an aside rather than content so I can catch anything it filtered out that should have been on a slide."
+6. "As an instructor, I want to be warned in the moment when the system isn’t confident whether I’m correcting a slide or adding new content so I can clarify without losing my train of thought."
+7. "As an instructor, I want to turn off automatic correction detection for a lecture, so slides only ever get appended to when I don’t trust the feature to interpret me correctly."
+8. "As an instructor, I want to see and remove any quiz question generated from an aside or a comment I made to the tool rather than the class, before I publish the quiz to students."
+9. "As an instructor, I want the system to keep capturing my lecture in plain append-only mode if correction detection fails or times out, so a lecture in progress never has to stop."
+10. "As an instructor, I want to see a short list of the corrections I made during a lecture after it ends, so I can decide whether any of them need a more careful manual edit."
+11. Instructor Image Upload UML: "As an instructor, I want to upload an image from my own device into the whiteboard tab, so I can put a diagram or photo I already have directly onto a slide."
+12. Instructor Text Insert UML: "As an instructor, I want to type my own text box onto a slide in the whiteboard tab, so I can add a label, caption, or note the system didn’t generate."
 
-Employee:\
-1. "As an employee, I want to seed a project with my team’s internal terminology and project names before a demo, so the generated slides use vocabulary my teammates actually recognize instead of generic phrasing."\
-2. "As an employee, I want to mark a presentation as company internal only, so the generated deck and quiz can’t be viewed or discovered by anyone outside my organization."\
-3. "As an employee, I want a spoken correction during a demo, like fixing a wrong metric I just said, to actually replace the wrong slide text, so a teammate skimming the deck later doesn’t see two contradictory numbers."\
-4. "As an employee, I want any confidential detail I mention out loud, like an unreleased feature name or a customer’s name, excluded from the slide and from any generated quiz question, so I don’t have to worry about oversharing in front of the room."\
-5. "As an employee, I want to distribute a post-presentation knowledge check to the teammates who attended, so I can confirm the key takeaways actually landed before we move on."\
-6. "As an employee, I want to see which team or project budget my presentation’s AI usage is billed against, so it isn’t quietly counted against my personal usage cap."\
-7. "As an employee, I want to export the generated deck into our company’s existing knowledge base or wiki after a talk, so it becomes part of our team’s documentation instead of living only inside the slide machine."\
-8. "As an employee, I want to set an expiration or review date on a deck that contains confidential project details, so sensitive material doesn’t sit around indefinitely after the project it covers has shipped or been cancelled."\
-9. "As an employee, I want to restrict who at my company can edit a deck I’ve shared internally, so a teammate can view it without being able to change what I actually presented."\
-10. "As an employee, I want to be notified if the AI service refuses or fails partway through my demo because it flagged something as sensitive, so I know to keep talking and patch the gap manually afterward instead of assuming the deck is complete."\
-11. Employee Image Upload UML:  "As an employee, I want to upload a screenshot or diagram from my own work into the whiteboard tab, so I can show something the live-generated slide couldn’t capture, like an architecture diagram or a code snippet."\
+Employee:
+1. "As an employee, I want to seed a project with my team’s internal terminology and project names before a demo, so the generated slides use vocabulary my teammates actually recognize instead of generic phrasing."
+2. "As an employee, I want to mark a presentation as company internal only, so the generated deck and quiz can’t be viewed or discovered by anyone outside my organization."
+3. "As an employee, I want a spoken correction during a demo, like fixing a wrong metric I just said, to actually replace the wrong slide text, so a teammate skimming the deck later doesn’t see two contradictory numbers."
+4. "As an employee, I want any confidential detail I mention out loud, like an unreleased feature name or a customer’s name, excluded from the slide and from any generated quiz question, so I don’t have to worry about oversharing in front of the room."
+5. "As an employee, I want to distribute a post-presentation knowledge check to the teammates who attended, so I can confirm the key takeaways actually landed before we move on."
+6. "As an employee, I want to see which team or project budget my presentation’s AI usage is billed against, so it isn’t quietly counted against my personal usage cap."
+7. "As an employee, I want to export the generated deck into our company’s existing knowledge base or wiki after a talk, so it becomes part of our team’s documentation instead of living only inside the slide machine."
+8. "As an employee, I want to set an expiration or review date on a deck that contains confidential project details, so sensitive material doesn’t sit around indefinitely after the project it covers has shipped or been cancelled."
+9. "As an employee, I want to restrict who at my company can edit a deck I’ve shared internally, so a teammate can view it without being able to change what I actually presented."
+10. "As an employee, I want to be notified if the AI service refuses or fails partway through my demo because it flagged something as sensitive, so I know to keep talking and patch the gap manually afterward instead of assuming the deck is complete."
+11. Employee Image Upload UML:  "As an employee, I want to upload a screenshot or diagram from my own work into the whiteboard tab, so I can show something the live-generated slide couldn’t capture, like an architecture diagram or a code snippet."
 12. Employee Confidentiality Marking UML :  "As an employee, I want to mark an uploaded image as company confidential, so it’s excluded if the deck is ever shared outside my organization."
 
 
