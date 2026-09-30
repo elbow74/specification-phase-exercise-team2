@@ -120,11 +120,15 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Wireframes
 
-See instructions. Delete this line and place your wireframe diagrams here, covering every new screen and every existing screen your proposal changes, for every type of user.
+<img width="362" height="191" alt="Screenshot 2026-09-30 at 12 15 21 PM" src="https://github.com/user-attachments/assets/c249b67b-9c66-49f2-b8db-6819c70bbcb4" />
+<img width="297" height="336" alt="Screenshot 2026-09-30 at 12 15 07 PM" src="https://github.com/user-attachments/assets/c3088aa5-66bc-4eae-b843-a7ff75133120" />
+<img width="300" height="335" alt="Screenshot 2026-09-30 at 12 14 54 PM" src="https://github.com/user-attachments/assets/29a99f12-97a8-45c7-b9ae-7db1f823e2e3" />
+<img width="880" height="569" alt="Screenshot 2026-09-30 at 12 14 34 PM" src="https://github.com/user-attachments/assets/6c877f20-2632-4371-8dba-7dfae792df23" />
+
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+https://www.figma.com/design/6GsMji6ODp9vGgwjKXzsph/Project-1---Slide-Machine-Feature?node-id=0-1&t=2sWlwygdTnV0sSS7-1
 
 ## Stakeholder Demo
 
