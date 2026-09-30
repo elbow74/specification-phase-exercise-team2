@@ -37,28 +37,29 @@ extend that same guarantee to manually added elements.
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
 
-**Students:**
-*G.C (Student, Student Gov’t Member)*
-*1. Goals & Needs (Before Testing):*
-  a. Clear instructions on assignments
-  b. Appease constituents in student gov’t
-  c. Ensure appropriate work-life balance
-  d. Short but descriptive notes for optimal studying
-*2. Problems & Frustrations (Before Testing):*
-  a. Easy access to frequently used tools; currently frustrated with lack of convenience in NYU software
-  b. Slides that include all relevant information professors cover
-  c. Stress with schoolwork
-  d. Not enough time to comfortably complete assignments
-*3. Goals & Needs (After Testing, Relating to App):*
-  a. Talk about a topic of choice (fantasy animals), make comparisons to a different topic, and have the slide generate those distinctions properly (successful)
-  b. Highlight specific portions of her speech (successful)
-*4. Problems & Frustrations (After Testing, Relating to App):*
-  a. False assumption that playing the recorded audio would start from the beginning, instead of at the slide she’s currently on
-  b. Exit quiz asked questions unrelated to the presentation's content, instead asking about what the lecturer asked the Slide Machine to do (for example, “What photos did the speaker ask for?”)
-  c. Couldn’t add a Venn diagram image or change background color. Wished there was a quicker and easier way of adding these basic features
-  d. Slide bullet points were unspecific and sometimes incorrect
-  e. Slide titles were not always topic specific (for example, presenter began talking about unicorns as the national animal of Ireland, but moved to talking about unicorns/pegasi/leprechauns overall. But the first slide is titled “Facts about Ireland.”)
-  f. Trying to correct the slide as she goes, unsuccessfully, just adds on more information rather than correcting mistakes
+### Students:
+
+**G.C (Student, Student Gov’t Member)**
+1. **Goals & Needs (Before Testing):**
+  a. Clear instructions on assignments\
+  b. Appease constituents in student gov’t\
+  c. Ensure appropriate work-life balance\
+  d. Short but descriptive notes for optimal studying\
+2. **Problems & Frustrations (Before Testing):**
+  a. Easy access to frequently used tools; currently frustrated with lack of convenience in NYU software\
+  b. Slides that include all relevant information professors cover\
+  c. Stress with schoolwork\
+  d. Not enough time to comfortably complete assignments\
+3. **Goals & Needs (After Testing, Relating to App):**
+  a. Talk about a topic of choice (fantasy animals), make comparisons to a different topic, and have the slide generate those distinctions properly (successful)\
+  b. Highlight specific portions of her speech (successful)\
+4. **Problems & Frustrations (After Testing, Relating to App):**
+  a. False assumption that playing the recorded audio would start from the beginning, instead of at the slide she’s currently on\
+  b. Exit quiz asked questions unrelated to the presentation's content, instead asking about what the lecturer asked the Slide Machine to do (for example, “What photos did the speaker ask for?”)\
+  c. Couldn’t add a Venn diagram image or change background color. Wished there was a quicker and easier way of adding these basic features\
+  d. Slide bullet points were unspecific and sometimes incorrect\
+  e. Slide titles were not always topic specific (for example, presenter began talking about unicorns as the national animal of Ireland, but moved to talking about unicorns/pegasi/leprechauns overall. But the first slide is titled “Facts about Ireland.”)\
+  f. Trying to correct the slide as she goes, unsuccessfully, just adds on more information rather than correcting mistakes\
 
 ## Product Vision Statement
 
