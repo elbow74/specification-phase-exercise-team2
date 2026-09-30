@@ -21,7 +21,16 @@ Sai Shettar ([https://github.com/saishettar](https://github.com/saishettar)), El
 
 ## Prior Art & Originality
 
-See instructions. Delete this line and replace with a short statement of what your team checked (the project's Future Work and Open Questions, its roadmap, and its open issues and pull requests) and which parts of your proposal are original — new work not already specified, scheduled, or proposed by someone else.
+We checked the project's roadmap, Future Work, Open Questions, and open GitHub issues and
+pull requests for anything covering manual image or text placement on a slide. The
+whiteboard tab currently only supports drawing (pen, highlighter, eraser); adding a user's
+own image or typed text there isn't specified, scheduled, or proposed elsewhere. The
+closest existing feature, seed images, uploads pictures before a lecture to guide AI
+generation, a different mechanism than placing a specific image or text on a specific slide
+by hand. Our own testing of the live app confirmed this gap independently. What's original
+to our proposal is manual image and text placement in the whiteboard tab; what's reused is
+the whiteboard's existing rule that content can't shift under what's already there, we
+extend that same guarantee to manually added elements.
 
 ## Stakeholders
 
