@@ -132,7 +132,7 @@ https://www.figma.com/design/6GsMji6ODp9vGgwjKXzsph/Project-1---Slide-Machine-Fe
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
+[See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.](https://theslidemachine.com/d/untitled-583e0c02)
 
 ## Exit Ticket
 
