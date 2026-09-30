@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Sai Shettar ([https://github.com/saishettar](https://github.com/saishettar)), Elton Yu ([https://github.com/elbow74](https://github.com/elbow74)), Marco Gulino (https://github.com/MarcoHGulino)
+Sai Shettar ([https://github.com/saishettar](https://github.com/saishettar)), Elton Yu ([https://github.com/elbow74](https://github.com/elbow74)), Marco Gulino (https://github.com/MarcoHGulino), Sienna Maguire ([https://github.com/SiennaSSM])
 
 
 ## Review of the Current Application
@@ -120,7 +120,7 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ## Wireframes
 
-<img width="362" height="191" alt="Screenshot 2026-09-30 at 12 15 21 PM" src="https://github.com/user-attachments/assets/c249b67b-9c66-49f2-b8db-6819c70bbcb4" />
+<img width="362" height="191" alt="Screenshot 2026-09-30 at 12 15 21 PM" src="https://github.com/user-attachments/assets/c249b67b-9c66-49f2-b8db-6819c70bbcb4" />\
 <img width="297" height="336" alt="Screenshot 2026-09-30 at 12 15 07 PM" src="https://github.com/user-attachments/assets/c3088aa5-66bc-4eae-b843-a7ff75133120" />
 <img width="300" height="335" alt="Screenshot 2026-09-30 at 12 14 54 PM" src="https://github.com/user-attachments/assets/29a99f12-97a8-45c7-b9ae-7db1f823e2e3" />
 <img width="880" height="569" alt="Screenshot 2026-09-30 at 12 14 34 PM" src="https://github.com/user-attachments/assets/6c877f20-2632-4371-8dba-7dfae792df23" />
