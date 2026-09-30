@@ -116,7 +116,10 @@ See instructions. Delete this line and place a list of your User Stories here, g
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here, each with the text of the user story it illustrates.
+As an instructor, I want to upload an image from my own device into the whiteboard tab, so I can put a diagram or photo I already have directly onto a slide.
+
+<img width="798" height="1179" alt="Instructor (Image Upload) drawio" src="https://github.com/user-attachments/assets/a004c1ae-ba3b-441d-9de6-df965196d267" />
+
 
 ## Wireframes
 
