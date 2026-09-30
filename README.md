@@ -61,6 +61,28 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
   e. Slide titles were not always topic specific (for example, presenter began talking about unicorns as the national animal of Ireland, but moved to talking about unicorns/pegasi/leprechauns overall. But the first slide is titled “Facts about Ireland.”)\
   f. Trying to correct the slide as she goes, unsuccessfully, just adds on more information rather than correcting mistakes
 
+**K.W (Student, Vet Assistant)**\
+1. **Goals & Needs (Before Testing):**
+  a. List of things to do during the day / clear instructions\
+  b. Knowing what procedures/consultations are happening among her peers\
+  c. Become less involved, have less responsibility, feel less overwhelmed\
+  d. Work-life balance\
+  e. Feel useful and considerate of her teammates
+2. **Problems & Frustrations (Before Testing):**\
+  a. Difficult to access necessary material or portals, too many hoops to jump through\
+  b. Communication is difficult, disconnect between professor and student, disconnect between tiers of roles\
+  c. Poor allocation of time for work\
+  d. Overpacked schedule, not optimal efficiency
+3. **Goals & Needs (After Testing, Relating to App):**\
+  a. Drew pictures and highlighted text (successful)\
+  b. Switched between unrelated topics smoothly, generated transition slide/title slide (successful)\
+4. **Problems & Frustrations (After Testing, Relating to App):**
+  a. Was unsure if the audio recording stopped after clicking out of the slide\
+  b. Thought she had to ask the slide to add pictures, text, and charts (images). The presenter didn’t realize it was supposed to add them automatically. But her image requests didn’t work either. She couldn’t generate pictures, tables, change fonts, or change colors\
+  c. Thought she could add transitions (animations) between slides or onto text. Was assuming Slide Machine had the same options as Google Slides. Shows a functionality gap between competitors.\
+  d. Slide Machine generated words she didn’t say. For example, “Genetics Club”, but she only said “Genetics”. Similarly, “3 laws concerning dominance” was not something she said, but it became a bullet point.
+
+
 ## Product Vision Statement
 
 Our proposal adds manual content controls to The Slide Machine’s whiteboard tab, letting instructors and other presenters place their own images and their own typed text directly onto a slide, instead of being limited to what the tool draws or generates on its own.
