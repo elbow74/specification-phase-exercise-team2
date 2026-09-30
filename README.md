@@ -20,7 +20,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here — one sentence describing the improvements and new features your team is proposing for The Slide Machine.
+Our proposal adds manual content controls to The Slide Machine’s whiteboard tab, letting instructors and other presenters place their own images and their own typed text directly onto a slide, instead of being limited to what the tool draws or generates on its own.
 
 ## User Requirements
 
