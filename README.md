@@ -61,7 +61,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
   e. Slide titles were not always topic specific (for example, presenter began talking about unicorns as the national animal of Ireland, but moved to talking about unicorns/pegasi/leprechauns overall. But the first slide is titled “Facts about Ireland.”)\
   f. Trying to correct the slide as she goes, unsuccessfully, just adds on more information rather than correcting mistakes
 
-**K.W (Student, Vet Assistant)**\
+**K.W (Student, Vet Assistant)**
 1. **Goals & Needs (Before Testing):**
   a. List of things to do during the day / clear instructions\
   b. Knowing what procedures/consultations are happening among her peers\
@@ -75,12 +75,35 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
   d. Overpacked schedule, not optimal efficiency
 3. **Goals & Needs (After Testing, Relating to App):**\
   a. Drew pictures and highlighted text (successful)\
-  b. Switched between unrelated topics smoothly, generated transition slide/title slide (successful)\
-4. **Problems & Frustrations (After Testing, Relating to App):**
+  b. Switched between unrelated topics smoothly, generated transition slide/title slide (successful)
+4. **Problems & Frustrations (After Testing, Relating to App):**\
   a. Was unsure if the audio recording stopped after clicking out of the slide\
   b. Thought she had to ask the slide to add pictures, text, and charts (images). The presenter didn’t realize it was supposed to add them automatically. But her image requests didn’t work either. She couldn’t generate pictures, tables, change fonts, or change colors\
   c. Thought she could add transitions (animations) between slides or onto text. Was assuming Slide Machine had the same options as Google Slides. Shows a functionality gap between competitors.\
   d. Slide Machine generated words she didn’t say. For example, “Genetics Club”, but she only said “Genetics”. Similarly, “3 laws concerning dominance” was not something she said, but it became a bullet point.
+
+
+### Office Worker:
+
+**H.M (Office Worker, SWE)**
+1. **Goals & Needs (Before Testing):**\
+  a. Work-life balance\
+  b. Clear instructions on tickets\
+  c. Having peers be familiar with the codebase, on the same page, for working on tickets\
+  d. When cross-checking for PRs, desire for concise and specific presentation of feedback
+2. **Problems & Frustrations (Before Testing):**\
+  a. Difficulties learning a wide range of tools and becoming familiar with large codebases\
+  b. Longer epics can be difficult; having one task for a prolonged period of time becomes uninteresting\
+  c. Forgetting information from morning standup, wishes for less vague direction of projects discussed and for notes to look back on. Perhaps a slideshow for review.
+3. **Goals & Needs (After Testing, Relating to App):**\
+  a. Translate slide into another language (successful)\
+  b. View and listen to other people’s slides (successful)\
+  c. Presenter wanted to see captions on the screen when replaying his audio, he falsely assumed this was a feature.
+4. **Problems & Frustrations (After Testing, Relating to App):**\
+  a. Presenter was unsure if he had to prompt the slideshow first, instead of simply beginning the presentation. He thought pre-existing notes (seed material) were required\
+  b. Changing language midway through turns off the mic, the user didn’t realize this. He wished he was shown an alert\
+  c. Great difficulty adding images, such as pictures, graphs, and diagrams. Without these visuals working, the presenter did not see the point in the Slide Machine compared to just a recorded transcript\
+  d. Attempted to drag in an image, frustrated by inability to control visuals
 
 
 ## Product Vision Statement
