@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Sai Shettar ([https://github.com/saishettar](https://github.com/saishettar)), Elton Yu ([https://github.com/elbow74](https://github.com/elbow74)), Marco Gulino (https://github.com/MarcoHGulino), Sienna Maguire ([https://github.com/SiennaSSM])
+Sai Shettar ([https://github.com/saishettar](https://github.com/saishettar)), Elton Yu ([https://github.com/elbow74](https://github.com/elbow74)), Marco Gulino (https://github.com/MarcoHGulino), Sienna Maguire (https://github.com/SiennaSSM)
 
 
 ## Review of the Current Application
@@ -34,8 +34,6 @@ the whiteboard's existing rule that content can't shift under what's already the
 extend that same guarantee to manually added elements.
 
 ## Stakeholders
-
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations. Note which type of user each stakeholder represents. You may use pseudonyms or partial names to maintain their privacy, but you must privately share their full names and contact information as part of your submission of this exercise
 
 ### Students:
 
