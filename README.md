@@ -4,7 +4,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Sai Shettar ([https://github.com/saishettar](https://github.com/saishettar)), Elton Yu ([https://github.com/elbow74]((https://github.com/elbow74)))
+Sai Shettar ([https://github.com/saishettar](https://github.com/saishettar)), Elton Yu ([https://github.com/elbow74](https://github.com/elbow74))
 
 ## Review of the Current Application
 
