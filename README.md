@@ -103,6 +103,8 @@ extend that same guarantee to manually added elements.
   c. Great difficulty adding images, such as pictures, graphs, and diagrams. Without these visuals working, the presenter did not see the point in the Slide Machine compared to just a recorded transcript\
   d. Attempted to drag in an image, frustrated by inability to control visuals
 
+### Professors:
+
 
 ## Product Vision Statement
 
@@ -130,7 +132,7 @@ https://www.figma.com/design/6GsMji6ODp9vGgwjKXzsph/Project-1---Slide-Machine-Fe
 
 ## Stakeholder Demo
 
-[See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.](https://theslidemachine.com/d/untitled-583e0c02)
+https://theslidemachine.com/d/untitled-583e0c02
 
 ## Exit Ticket
 
